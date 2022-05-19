@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtxUZ704/57KPK0GbU7/uaWVDe4l83XBu6VCpDl99xRONtKwHwsSDvLB1xhLSN/DgKoVYozZjA0+B1ig+706vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nswindall\\Desktop\\Tutorials\\F#\\BankAccountApp\\src\\Library\\Library.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nswindall\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
