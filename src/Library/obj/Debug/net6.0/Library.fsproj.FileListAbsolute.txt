@@ -1,0 +1,10 @@
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.fsproj.AssemblyReference.cache
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.fs
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\bin\Debug\net6.0\Library.dll
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\bin\Debug\net6.0\Library.xml
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.dll
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.xml
+C:\Users\nswindall\Desktop\Tutorials\F#\BankAccountApp\src\Library\obj\Debug\net6.0\Library.pdb
